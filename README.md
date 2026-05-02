@@ -1,2 +1,2 @@
-# myfinance-web-dotnet
+# MyFinance - web - dotnet
 Sistema Financeiro Web Pessoal
